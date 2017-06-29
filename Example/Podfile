@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZCTabbarController_Example' do
+  pod 'ZCTabbarController', :path => '../'
+
+  target 'ZCTabbarController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
