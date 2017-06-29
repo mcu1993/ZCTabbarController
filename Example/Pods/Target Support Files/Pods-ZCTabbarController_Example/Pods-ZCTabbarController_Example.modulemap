@@ -1,0 +1,6 @@
+framework module Pods_ZCTabbarController_Example {
+  umbrella header "Pods-ZCTabbarController_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

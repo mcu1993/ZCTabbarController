@@ -1,0 +1,6 @@
+framework module ZCTabbarController {
+  umbrella header "ZCTabbarController-umbrella.h"
+
+  export *
+  module * { export * }
+}
